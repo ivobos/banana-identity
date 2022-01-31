@@ -1,0 +1,15 @@
+{
+  "name": "@ivobos/banana-identity",
+  "version": "1.0.2",
+  "description": "Simplify Amazon Cognito webapp integration using these React components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cognito",
+    "identity"
+  ],
+  "author": "Ivo Bosticky",
+  "license": "ISC"
+}
