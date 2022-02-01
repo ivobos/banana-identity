@@ -1,6 +1,6 @@
 {
   "name": "@ivobos/banana-identity",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simplify Amazon Cognito webapp integration using these React components.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
